@@ -24,8 +24,6 @@
     5- Run npm run seed.
     6- Run npm start.
 
-    
-
 
   ## Usage
 
@@ -50,19 +48,22 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
 
-  Walkthrough video: 
-  Repository: 
+  Walkthrough video: https://drive.google.com/file/d/1QOYw45q0Aay6rEEP-STN2_-5Azmba9To/view
+  Repository: https://github.com/Friel2021/E-Commerce-Back-End
 
   ## Contributing
+
+  When contributing to this repository, please first discuss the change you wish to make via issue,
+  email, or any other method with the owners of this repository before making a change. 
 
 
   ## Questions
 
   For addition questions, Please reach me at:
 
-  GITHUB:
+  GITHUB: https://github.com/Friel2021
   
-  Email: 
+  Email: friel2009@gmail.com
 
 
   ## License
