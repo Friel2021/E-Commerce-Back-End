@@ -51,7 +51,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
   ## Screenshot
 
-
+  ![screenshot](https://user-images.githubusercontent.com/87154134/132780648-13bae002-85f9-4266-a222-b8ce74d967b1.PNG)
+  
   Walkthrough video: https://drive.google.com/file/d/1QOYw45q0Aay6rEEP-STN2_-5Azmba9To/view
 
   Repository: https://github.com/Friel2021/E-Commerce-Back-End
